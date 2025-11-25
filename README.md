@@ -4,11 +4,6 @@
   <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BA%8B%E6%83%85%E5%8E%8B%E4%B8%8D%E5%80%92%E4%BA%BA%EF%BC%8C%E4%BD%86%E6%83%85%E7%BB%AA%E4%BC%9A" /></a>
   </div>
 
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itxaiohanglover&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
-
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itxaiohanglover&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
 
 <!-- profile logo 个人资料徽标 -->
   <div>
@@ -39,5 +34,5 @@
 
 
 <!-- GitHub 资料奖杯 -->
-  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itxaiohanglover" /> </div>
+  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=GalaxyCurry&theme=light" /> </div>
 
