@@ -6,6 +6,7 @@
 
 
 <!-- profile logo 个人资料徽标 -->
+<div align="center">
   <div>
     <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/CSDN-文艺倾年-red" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/WeChat-cu_Oliver_cu-07c160" /></a>&emsp;
@@ -18,6 +19,7 @@
 
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
