@@ -28,3 +28,23 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
+
+
+<!-- GitHub 资料奖杯 -->
+  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itxaiohanglover" /> </div>
+
+
+
+📌 [ 笔者 ]   文艺倾年
+📃 [ 更新 ]   2025.3.7
+❌ [ 勘误 ]   /* 暂无 */
+📜 [ 声明 ]   由于作者水平有限，本文有错误和不准确之处在所难免，
+              本人也很想知道这些错误，恳望读者批评指正！
