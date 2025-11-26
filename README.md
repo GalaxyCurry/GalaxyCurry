@@ -8,10 +8,10 @@
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <div>
-    <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/CSDN-文艺倾年-red" /></a>&emsp;
+    <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/CSDN-Galaxy_Li_Galaxy-red" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/WeChat-cu_Oliver_cu-07c160" /></a>&emsp;
     <img src="https://img.shields.io/badge/QQ-383040504-green?logo=tencentqq" />&emsp;
-    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Bilibili-Galaxy啦-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
