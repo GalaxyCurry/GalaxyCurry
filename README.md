@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/QQ-383040504-green?logo=tencentqq" />&emsp;
     <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Bilibili-Galaxy啦-ff69b4" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=GalaxyCurry&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
 
