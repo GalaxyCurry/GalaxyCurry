@@ -1,4 +1,4 @@
-<h1>🙋 嗨，你好，我是文艺倾年。热爱编程、音乐、读书、篮球。</h1>
+<h1>🙋 嗨，你好，我是Galaxy_Li。热爱编程、音乐、读书、篮球。</h1>
 
 <!-- dynamic typing effect 动态打字效果 -->
   <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BA%8B%E6%83%85%E5%8E%8B%E4%B8%8D%E5%80%92%E4%BA%BA%EF%BC%8C%E4%BD%86%E6%83%85%E7%BB%AA%E4%BC%9A" /></a>
