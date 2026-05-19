@@ -3,9 +3,9 @@
 
 
 
-<!-- 终极修复：原生支持中文，直接写汉字即可，永不乱码 -->
+<!-- 完全修复中文乱码的动态打字效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=550&lines=事情压不垮人，但情绪会；编程是一种心灵的修行；持续学习，水滴石穿；医学影像算法开发 双向奔赴?v=2026051902" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=550&lines=%E4%BA%8B%E6%83%85%E5%8E%8B%E4%B8%8D%E5%80%92%E4%BA%BA%EF%BC%8C%E4%BD%86%E6%83%85%E7%BB%AA%E4%BC%9A%EF%BC%9B;%E7%BC%96%E7%A8%8B%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%81%B5%E7%9A%84%E4%BF%AE%E8%A1%8C;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%B0%B4%E6%BB%B4%E7%9F%B3%E7%A9%BF;" alt="Typing SVG" />
 </div>
 
 <br>
