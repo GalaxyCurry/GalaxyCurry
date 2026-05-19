@@ -3,7 +3,7 @@
 
 
 
-<!-- 完全修复中文乱码的动态打字效果 -->
+<!-- 动态打字效果 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=550&lines=%E4%BA%8B%E6%83%85%E5%8E%8B%E4%B8%8D%E5%80%92%E4%BA%BA%EF%BC%8C%E4%BD%86%E6%83%85%E7%BB%AA%E4%BC%9A%EF%BC%9B;%E7%BC%96%E7%A8%8B%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%81%B5%E7%9A%84%E4%BF%AE%E8%A1%8C;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%B0%B4%E6%BB%B4%E7%9F%B3%E7%A9%BF;" alt="Typing SVG" />
 </div>
@@ -48,8 +48,8 @@
 <!-- GitHub 统计卡片 -->
 <div align="center">
   <h3>📊 GitHub 统计</h3>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GalaxyCurry&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyCurry&layout=compact&theme=transparent&langs_count=8&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GalaxyCurry&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&v=2026051903" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyCurry&layout=compact&theme=transparent&langs_count=8&count_private=true&v=2026051903" />
 </div>
 
 <br>
