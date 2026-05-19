@@ -2,8 +2,9 @@
 热爱编程、音乐、读书、Basketball 🏀 | 医学影像算法工程师 | 专注于CT重建与图像后处理
 
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=550&lines=事情压不垮人，但情绪会；%E7%BC%96%E7%A8%8B%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%81%B5%E7%9A%84%E4%BF%AE%E8%A1%8C;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%B0%B8%EBF%9C%E7%9F%B3%E7%A9%BF;%E5%8C%BB%E5%AD%A6%E5%BD%B1%E5%83%8F%E7%AE%97%E6%B3%95%E5%BC%80%E5%8F%8C%E8%87%B4%E5%8F%91?v=20260519" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=550&lines=%E4%BA%8B%E6%83%85%E5%8E%8B%E4%B8%8D%E5%80%92%E4%BA%BA%EF%BC%8C%E4%BD%86%E6%83%85%E7%BB%AA%E4%BC%9A%EF%BC%9B;%E7%BC%96%E7%A8%8B%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%81%B5%E7%9A%84%E4%BF%AE%E8%A1%8C;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%B0%B4%E6%BB%B4%E7%9F%B3%E7%A9%BF;%E5%8C%BB%E5%AD%A6%E5%BD%B1%E5%83%8F%E7%AE%97%E6%B3%95%E5%BC%80%E5%8F%8F%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4?v=2026051901" alt="Typing SVG" />
 </div>
 
 <br>
@@ -87,7 +88,7 @@
 <br>
 
 ## 🚀 正在做的项目
-- **CT探测器全链路校准系统**：实现Air/Gain/Offset/Defect/Dose校准，提升图像质量30%
+- **CT探测器全链路校准系统**：Air/Gain/Offset/Defect/Dose校准，
 - **基于深度学习的CT图像去噪**：
 - **工业CT几何标定工具**：基于Ceres Solver的高精度球阵模体标定算法
 
