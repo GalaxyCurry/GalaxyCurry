@@ -26,12 +26,12 @@
 
 ## 🛠 技术栈
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,cuda,qt,opencv,pytorch,tensorflow,cmake,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,cuda,opencv,pytorch,tensorflow,cmake,git,linux,docker" />
 </div>
 
 <br>
 
-<!-- 贪吃蛇代码贡献图（请先配置下方的GitHub Actions） -->
+
 <div align="center">
   <h3>🐍 代码贡献贪吃蛇</h3>
   <picture>
@@ -80,15 +80,15 @@
 <br>
 
 ## 📝 最新博客文章
-- [【AI Coding笔试】2026最新 Claude/OpenCode + OpenClaw 进阶实战](https://blog.csdn.net/m0_51517236)
-- [【强化学习&SWE】如何评估人工智能代理在持续软件演化中的表现](https://blog.csdn.net/m0_51517236)
-- [【八股消消乐】Kafka集群 full GC 解决方案](https://blog.csdn.net/m0_51517236)
+- 
+- 
+- 
 
 <br>
 
 ## 🚀 正在做的项目
 - **CT探测器全链路校准系统**：实现Air/Gain/Offset/Defect/Dose校准，提升图像质量30%
-- **基于深度学习的CT图像去噪**：设计XBDCNN网络，在低剂量CT上取得SOTA效果
+- **基于深度学习的CT图像去噪**：
 - **工业CT几何标定工具**：基于Ceres Solver的高精度球阵模体标定算法
 
 <br>
