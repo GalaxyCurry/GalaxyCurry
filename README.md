@@ -48,8 +48,8 @@
 <!-- GitHub 统计卡片 -->
 <div align="center">
   <h3>📊 GitHub 统计</h3>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GalaxyCurry&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&v=2026051903" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyCurry&layout=compact&theme=transparent&langs_count=8&count_private=true&v=2026051903" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GalaxyCurry&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&v=2026051903" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GalaxyCurry&layout=compact&theme=transparent&langs_count=8&count_private=true&v=2026051903" />
 </div>
 
 <br>
