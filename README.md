@@ -1,7 +1,7 @@
 # 🙋 嗨，你好，我是GalaxyCurry  
-热爱编程、音乐、读书、Basketball 🏀 | 医学影像算法工程师 | 专注于CT重建与图像去噪
+热爱编程、音乐、读书、Basketball 🏀 | 医学影像算法工程师 | 专注于CT重建与图像后处理
 
-<!-- 动态打字效果（2026年5月最新稳定版，已修复不显示问题） -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=550&lines=事情压不垮人，但情绪会；%E7%BC%96%E7%A8%8B%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%81%B5%E7%9A%84%E4%BF%AE%E8%A1%8C;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%B0%B8%EBF%9C%E7%9F%B3%E7%A9%BF;%E5%8C%BB%E5%AD%A6%E5%BD%B1%E5%83%8F%E7%AE%97%E6%B3%95%E5%BC%80%E5%8F%8C%E8%87%B4%E5%8F%91?v=20260519" alt="Typing SVG" />
 </div>
