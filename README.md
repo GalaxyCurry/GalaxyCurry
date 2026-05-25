@@ -13,7 +13,7 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://blog.csdn.net/m0_51517236" target="_blank">
-    <img src="https://img.shields.io/badge/CSDN-文艺倾年-red?logo=csdn&logoColor=white" alt="CSDN博客" />
+    <img src="https://img.shields.io/badge/CSDN-Galaxy_Li_Galaxy-red?logo=csdn&logoColor=white" alt="CSDN博客" />
   </a>&emsp;
   <a href="https://space.bilibili.com/你的B站UID" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-Galaxy啦-ff69b4?logo=bilibili&logoColor=white" alt="B站" />
