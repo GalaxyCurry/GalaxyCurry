@@ -15,7 +15,7 @@
   <a href="https://blog.csdn.net/qq_58090922?type=blog" target="_blank">
     <img src="https://img.shields.io/badge/CSDN-Galaxy_Li_Galaxy-red?logo=csdn&logoColor=white" alt="CSDN博客" />
   </a>&emsp;
-  <a href="https://space.bilibili.com/你的B站UID" target="_blank">
+  <a href="https://space.bilibili.com/1954864399?spm_id_from=333.937.0.0" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-Galaxy啦-ff69b4?logo=bilibili&logoColor=white" alt="B站" />
   </a>&emsp;
   <a href="mailto:你的邮箱地址" target="_blank">
