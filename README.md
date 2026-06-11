@@ -18,7 +18,7 @@
   <a href="https://space.bilibili.com/1954864399?spm_id_from=333.937.0.0" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-Galaxy啦-ff69b4?logo=bilibili&logoColor=white" alt="B站" />
   </a>&emsp;
-  <a href="mailto:你的邮箱地址" target="_blank">
+  <a href="mailto:lmy15933285944@163.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-lmy15933285944@163.com-blue?logo=gmail&logoColor=white" alt="邮箱" />
   </a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=GalaxyCurry&label=Views&color=orange&style=flat" alt="访问量统计" />
